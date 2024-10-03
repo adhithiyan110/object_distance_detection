@@ -16,6 +16,7 @@
 ### Installation
 - Get a 32 GB (minimal) SD card to hold the image.
 - Download the image `JetsonNanoUb20_3b.img.xz` (**8.7 GByte!**) from link
+
 link_1 - [Sync](https://ln5.sync.com/dl/403a73c60/bqppm39m-mh4qippt-u5mhyyfi-nnma8c4t). 
 
 link_2 - [Google Drive](https://drive.google.com/file/d/1L2H_sQC_kSILrcJteWg7htKxJirtDsZ9/view?usp=sharing)
